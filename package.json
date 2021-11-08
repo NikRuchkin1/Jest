@@ -1,0 +1,15 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "filling out this field to avoid warnings",
+  "repository": {
+    "type": "git",
+    "url": "not publishing"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nik Ruchkin",
+  "license": "ISC"
+}
